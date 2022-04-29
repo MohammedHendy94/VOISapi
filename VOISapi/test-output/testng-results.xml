@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-29T03:37:32 EET" name="Default suite" finished-at="2022-04-29T03:37:38 EET" duration-ms="6247">
+    <groups>
+    </groups>
+    <test started-at="2022-04-29T03:37:32 EET" name="Default test" finished-at="2022-04-29T03:37:38 EET" duration-ms="6247">
+      <class name="Tests.TestCases">
+        <test-method signature="FirstTestCase()[pri:0, instance:Tests.TestCases@1a4013]" started-at="2022-04-29T03:37:32 EET" name="FirstTestCase" finished-at="2022-04-29T03:37:37 EET" duration-ms="5223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstTestCase -->
+        <test-method signature="SecondTestCase()[pri:0, instance:Tests.TestCases@1a4013]" started-at="2022-04-29T03:37:37 EET" name="SecondTestCase" finished-at="2022-04-29T03:37:38 EET" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTestCase -->
+        <test-method signature="ThirdTestCase()[pri:0, instance:Tests.TestCases@1a4013]" started-at="2022-04-29T03:37:38 EET" name="ThirdTestCase" finished-at="2022-04-29T03:37:38 EET" duration-ms="556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThirdTestCase -->
+      </class> <!-- Tests.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
